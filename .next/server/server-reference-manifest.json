@@ -1,0 +1,118 @@
+{
+  "node": {
+    "19e534a2189dfb511f766d6fab559a722462f5d1": {
+      "workers": {
+        "app/page": "(action-browser)/./node_modules/next/dist/build/webpack/loaders/next-flight-action-entry-loader.js?actions=%5B%5B%22C%3A%5C%5CUsers%5C%5Cuser%5C%5CDesktop%5C%5CNext-Auth-Basics%5C%5Csrc%5C%5Capp%5C%5Clib%5C%5Cactions.ts%22%2C%5B%22%24%24ACTION_1%22%2C%22%24%24ACTION_3%22%2C%22handleLogout%22%2C%22handleSignup%22%2C%22%24%24ACTION_2%22%2C%22handleChange%22%2C%22%24%24ACTION_0%22%2C%22handleLogin%22%5D%5D%5D&__client_imported__=true!",
+        "app/login/page": "(action-browser)/./node_modules/next/dist/build/webpack/loaders/next-flight-action-entry-loader.js?actions=%5B%5B%22C%3A%5C%5CUsers%5C%5Cuser%5C%5CDesktop%5C%5CNext-Auth-Basics%5C%5Csrc%5C%5Capp%5C%5Clib%5C%5Cactions.ts%22%2C%5B%22%24%24ACTION_1%22%2C%22%24%24ACTION_3%22%2C%22handleLogout%22%2C%22handleSignup%22%2C%22%24%24ACTION_2%22%2C%22handleChange%22%2C%22%24%24ACTION_0%22%2C%22handleLogin%22%5D%5D%5D&__client_imported__=true!",
+        "app/profile/page": "(rsc)/./node_modules/next/dist/build/webpack/loaders/next-flight-action-entry-loader.js?actions=%5B%5B%22C%3A%5C%5CUsers%5C%5Cuser%5C%5CDesktop%5C%5CNext-Auth-Basics%5C%5Csrc%5C%5Capp%5C%5Clib%5C%5Cactions.ts%22%2C%5B%22%24%24ACTION_1%22%2C%22%24%24ACTION_3%22%2C%22handleLogout%22%2C%22handleSignup%22%2C%22%24%24ACTION_2%22%2C%22handleChange%22%2C%22%24%24ACTION_0%22%2C%22handleLogin%22%5D%5D%5D&__client_imported__=!",
+        "app/settings/page": "(action-browser)/./node_modules/next/dist/build/webpack/loaders/next-flight-action-entry-loader.js?actions=%5B%5B%22C%3A%5C%5CUsers%5C%5Cuser%5C%5CDesktop%5C%5CNext-Auth-Basics%5C%5Csrc%5C%5Capp%5C%5Clib%5C%5Cactions.ts%22%2C%5B%22%24%24ACTION_1%22%2C%22%24%24ACTION_3%22%2C%22handleLogout%22%2C%22handleSignup%22%2C%22%24%24ACTION_2%22%2C%22handleChange%22%2C%22%24%24ACTION_0%22%2C%22handleLogin%22%5D%5D%5D&__client_imported__=true!"
+      },
+      "layer": {
+        "app/page": "action-browser",
+        "app/login/page": "action-browser",
+        "app/profile/page": "rsc",
+        "app/settings/page": "action-browser"
+      }
+    },
+    "69af7b4aa7928f61a2e0c115f1ac054232d4c776": {
+      "workers": {
+        "app/page": "(action-browser)/./node_modules/next/dist/build/webpack/loaders/next-flight-action-entry-loader.js?actions=%5B%5B%22C%3A%5C%5CUsers%5C%5Cuser%5C%5CDesktop%5C%5CNext-Auth-Basics%5C%5Csrc%5C%5Capp%5C%5Clib%5C%5Cactions.ts%22%2C%5B%22%24%24ACTION_1%22%2C%22%24%24ACTION_3%22%2C%22handleLogout%22%2C%22handleSignup%22%2C%22%24%24ACTION_2%22%2C%22handleChange%22%2C%22%24%24ACTION_0%22%2C%22handleLogin%22%5D%5D%5D&__client_imported__=true!",
+        "app/login/page": "(action-browser)/./node_modules/next/dist/build/webpack/loaders/next-flight-action-entry-loader.js?actions=%5B%5B%22C%3A%5C%5CUsers%5C%5Cuser%5C%5CDesktop%5C%5CNext-Auth-Basics%5C%5Csrc%5C%5Capp%5C%5Clib%5C%5Cactions.ts%22%2C%5B%22%24%24ACTION_1%22%2C%22%24%24ACTION_3%22%2C%22handleLogout%22%2C%22handleSignup%22%2C%22%24%24ACTION_2%22%2C%22handleChange%22%2C%22%24%24ACTION_0%22%2C%22handleLogin%22%5D%5D%5D&__client_imported__=true!",
+        "app/profile/page": "(rsc)/./node_modules/next/dist/build/webpack/loaders/next-flight-action-entry-loader.js?actions=%5B%5B%22C%3A%5C%5CUsers%5C%5Cuser%5C%5CDesktop%5C%5CNext-Auth-Basics%5C%5Csrc%5C%5Capp%5C%5Clib%5C%5Cactions.ts%22%2C%5B%22%24%24ACTION_1%22%2C%22%24%24ACTION_3%22%2C%22handleLogout%22%2C%22handleSignup%22%2C%22%24%24ACTION_2%22%2C%22handleChange%22%2C%22%24%24ACTION_0%22%2C%22handleLogin%22%5D%5D%5D&__client_imported__=!",
+        "app/settings/page": "(action-browser)/./node_modules/next/dist/build/webpack/loaders/next-flight-action-entry-loader.js?actions=%5B%5B%22C%3A%5C%5CUsers%5C%5Cuser%5C%5CDesktop%5C%5CNext-Auth-Basics%5C%5Csrc%5C%5Capp%5C%5Clib%5C%5Cactions.ts%22%2C%5B%22%24%24ACTION_1%22%2C%22%24%24ACTION_3%22%2C%22handleLogout%22%2C%22handleSignup%22%2C%22%24%24ACTION_2%22%2C%22handleChange%22%2C%22%24%24ACTION_0%22%2C%22handleLogin%22%5D%5D%5D&__client_imported__=true!"
+      },
+      "layer": {
+        "app/page": "action-browser",
+        "app/login/page": "action-browser",
+        "app/profile/page": "rsc",
+        "app/settings/page": "action-browser"
+      }
+    },
+    "81a22f95a8995b2d9eb8d6226ca6bb452fa54164": {
+      "workers": {
+        "app/page": "(action-browser)/./node_modules/next/dist/build/webpack/loaders/next-flight-action-entry-loader.js?actions=%5B%5B%22C%3A%5C%5CUsers%5C%5Cuser%5C%5CDesktop%5C%5CNext-Auth-Basics%5C%5Csrc%5C%5Capp%5C%5Clib%5C%5Cactions.ts%22%2C%5B%22%24%24ACTION_1%22%2C%22%24%24ACTION_3%22%2C%22handleLogout%22%2C%22handleSignup%22%2C%22%24%24ACTION_2%22%2C%22handleChange%22%2C%22%24%24ACTION_0%22%2C%22handleLogin%22%5D%5D%5D&__client_imported__=true!",
+        "app/login/page": "(action-browser)/./node_modules/next/dist/build/webpack/loaders/next-flight-action-entry-loader.js?actions=%5B%5B%22C%3A%5C%5CUsers%5C%5Cuser%5C%5CDesktop%5C%5CNext-Auth-Basics%5C%5Csrc%5C%5Capp%5C%5Clib%5C%5Cactions.ts%22%2C%5B%22%24%24ACTION_1%22%2C%22%24%24ACTION_3%22%2C%22handleLogout%22%2C%22handleSignup%22%2C%22%24%24ACTION_2%22%2C%22handleChange%22%2C%22%24%24ACTION_0%22%2C%22handleLogin%22%5D%5D%5D&__client_imported__=true!",
+        "app/profile/page": "(rsc)/./node_modules/next/dist/build/webpack/loaders/next-flight-action-entry-loader.js?actions=%5B%5B%22C%3A%5C%5CUsers%5C%5Cuser%5C%5CDesktop%5C%5CNext-Auth-Basics%5C%5Csrc%5C%5Capp%5C%5Clib%5C%5Cactions.ts%22%2C%5B%22%24%24ACTION_1%22%2C%22%24%24ACTION_3%22%2C%22handleLogout%22%2C%22handleSignup%22%2C%22%24%24ACTION_2%22%2C%22handleChange%22%2C%22%24%24ACTION_0%22%2C%22handleLogin%22%5D%5D%5D&__client_imported__=!",
+        "app/settings/page": "(action-browser)/./node_modules/next/dist/build/webpack/loaders/next-flight-action-entry-loader.js?actions=%5B%5B%22C%3A%5C%5CUsers%5C%5Cuser%5C%5CDesktop%5C%5CNext-Auth-Basics%5C%5Csrc%5C%5Capp%5C%5Clib%5C%5Cactions.ts%22%2C%5B%22%24%24ACTION_1%22%2C%22%24%24ACTION_3%22%2C%22handleLogout%22%2C%22handleSignup%22%2C%22%24%24ACTION_2%22%2C%22handleChange%22%2C%22%24%24ACTION_0%22%2C%22handleLogin%22%5D%5D%5D&__client_imported__=true!"
+      },
+      "layer": {
+        "app/page": "action-browser",
+        "app/login/page": "action-browser",
+        "app/profile/page": "rsc",
+        "app/settings/page": "action-browser"
+      }
+    },
+    "bb7e44f33ab3a5e5ceb99a2e3ff8b833f87dd346": {
+      "workers": {
+        "app/page": "(action-browser)/./node_modules/next/dist/build/webpack/loaders/next-flight-action-entry-loader.js?actions=%5B%5B%22C%3A%5C%5CUsers%5C%5Cuser%5C%5CDesktop%5C%5CNext-Auth-Basics%5C%5Csrc%5C%5Capp%5C%5Clib%5C%5Cactions.ts%22%2C%5B%22%24%24ACTION_1%22%2C%22%24%24ACTION_3%22%2C%22handleLogout%22%2C%22handleSignup%22%2C%22%24%24ACTION_2%22%2C%22handleChange%22%2C%22%24%24ACTION_0%22%2C%22handleLogin%22%5D%5D%5D&__client_imported__=true!",
+        "app/login/page": "(action-browser)/./node_modules/next/dist/build/webpack/loaders/next-flight-action-entry-loader.js?actions=%5B%5B%22C%3A%5C%5CUsers%5C%5Cuser%5C%5CDesktop%5C%5CNext-Auth-Basics%5C%5Csrc%5C%5Capp%5C%5Clib%5C%5Cactions.ts%22%2C%5B%22%24%24ACTION_1%22%2C%22%24%24ACTION_3%22%2C%22handleLogout%22%2C%22handleSignup%22%2C%22%24%24ACTION_2%22%2C%22handleChange%22%2C%22%24%24ACTION_0%22%2C%22handleLogin%22%5D%5D%5D&__client_imported__=true!",
+        "app/profile/page": "(rsc)/./node_modules/next/dist/build/webpack/loaders/next-flight-action-entry-loader.js?actions=%5B%5B%22C%3A%5C%5CUsers%5C%5Cuser%5C%5CDesktop%5C%5CNext-Auth-Basics%5C%5Csrc%5C%5Capp%5C%5Clib%5C%5Cactions.ts%22%2C%5B%22%24%24ACTION_1%22%2C%22%24%24ACTION_3%22%2C%22handleLogout%22%2C%22handleSignup%22%2C%22%24%24ACTION_2%22%2C%22handleChange%22%2C%22%24%24ACTION_0%22%2C%22handleLogin%22%5D%5D%5D&__client_imported__=!",
+        "app/settings/page": "(action-browser)/./node_modules/next/dist/build/webpack/loaders/next-flight-action-entry-loader.js?actions=%5B%5B%22C%3A%5C%5CUsers%5C%5Cuser%5C%5CDesktop%5C%5CNext-Auth-Basics%5C%5Csrc%5C%5Capp%5C%5Clib%5C%5Cactions.ts%22%2C%5B%22%24%24ACTION_1%22%2C%22%24%24ACTION_3%22%2C%22handleLogout%22%2C%22handleSignup%22%2C%22%24%24ACTION_2%22%2C%22handleChange%22%2C%22%24%24ACTION_0%22%2C%22handleLogin%22%5D%5D%5D&__client_imported__=true!"
+      },
+      "layer": {
+        "app/page": "action-browser",
+        "app/login/page": "action-browser",
+        "app/profile/page": "rsc",
+        "app/settings/page": "action-browser"
+      }
+    },
+    "c06ac9d43aa22d5049b015684312deaabb728eb3": {
+      "workers": {
+        "app/page": "(action-browser)/./node_modules/next/dist/build/webpack/loaders/next-flight-action-entry-loader.js?actions=%5B%5B%22C%3A%5C%5CUsers%5C%5Cuser%5C%5CDesktop%5C%5CNext-Auth-Basics%5C%5Csrc%5C%5Capp%5C%5Clib%5C%5Cactions.ts%22%2C%5B%22%24%24ACTION_1%22%2C%22%24%24ACTION_3%22%2C%22handleLogout%22%2C%22handleSignup%22%2C%22%24%24ACTION_2%22%2C%22handleChange%22%2C%22%24%24ACTION_0%22%2C%22handleLogin%22%5D%5D%5D&__client_imported__=true!",
+        "app/login/page": "(action-browser)/./node_modules/next/dist/build/webpack/loaders/next-flight-action-entry-loader.js?actions=%5B%5B%22C%3A%5C%5CUsers%5C%5Cuser%5C%5CDesktop%5C%5CNext-Auth-Basics%5C%5Csrc%5C%5Capp%5C%5Clib%5C%5Cactions.ts%22%2C%5B%22%24%24ACTION_1%22%2C%22%24%24ACTION_3%22%2C%22handleLogout%22%2C%22handleSignup%22%2C%22%24%24ACTION_2%22%2C%22handleChange%22%2C%22%24%24ACTION_0%22%2C%22handleLogin%22%5D%5D%5D&__client_imported__=true!",
+        "app/profile/page": "(rsc)/./node_modules/next/dist/build/webpack/loaders/next-flight-action-entry-loader.js?actions=%5B%5B%22C%3A%5C%5CUsers%5C%5Cuser%5C%5CDesktop%5C%5CNext-Auth-Basics%5C%5Csrc%5C%5Capp%5C%5Clib%5C%5Cactions.ts%22%2C%5B%22%24%24ACTION_1%22%2C%22%24%24ACTION_3%22%2C%22handleLogout%22%2C%22handleSignup%22%2C%22%24%24ACTION_2%22%2C%22handleChange%22%2C%22%24%24ACTION_0%22%2C%22handleLogin%22%5D%5D%5D&__client_imported__=!",
+        "app/settings/page": "(action-browser)/./node_modules/next/dist/build/webpack/loaders/next-flight-action-entry-loader.js?actions=%5B%5B%22C%3A%5C%5CUsers%5C%5Cuser%5C%5CDesktop%5C%5CNext-Auth-Basics%5C%5Csrc%5C%5Capp%5C%5Clib%5C%5Cactions.ts%22%2C%5B%22%24%24ACTION_1%22%2C%22%24%24ACTION_3%22%2C%22handleLogout%22%2C%22handleSignup%22%2C%22%24%24ACTION_2%22%2C%22handleChange%22%2C%22%24%24ACTION_0%22%2C%22handleLogin%22%5D%5D%5D&__client_imported__=true!"
+      },
+      "layer": {
+        "app/page": "action-browser",
+        "app/login/page": "action-browser",
+        "app/profile/page": "rsc",
+        "app/settings/page": "action-browser"
+      }
+    },
+    "cd748fa887226bee7a0d2dc87888f4b181eec486": {
+      "workers": {
+        "app/page": "(action-browser)/./node_modules/next/dist/build/webpack/loaders/next-flight-action-entry-loader.js?actions=%5B%5B%22C%3A%5C%5CUsers%5C%5Cuser%5C%5CDesktop%5C%5CNext-Auth-Basics%5C%5Csrc%5C%5Capp%5C%5Clib%5C%5Cactions.ts%22%2C%5B%22%24%24ACTION_1%22%2C%22%24%24ACTION_3%22%2C%22handleLogout%22%2C%22handleSignup%22%2C%22%24%24ACTION_2%22%2C%22handleChange%22%2C%22%24%24ACTION_0%22%2C%22handleLogin%22%5D%5D%5D&__client_imported__=true!",
+        "app/login/page": "(action-browser)/./node_modules/next/dist/build/webpack/loaders/next-flight-action-entry-loader.js?actions=%5B%5B%22C%3A%5C%5CUsers%5C%5Cuser%5C%5CDesktop%5C%5CNext-Auth-Basics%5C%5Csrc%5C%5Capp%5C%5Clib%5C%5Cactions.ts%22%2C%5B%22%24%24ACTION_1%22%2C%22%24%24ACTION_3%22%2C%22handleLogout%22%2C%22handleSignup%22%2C%22%24%24ACTION_2%22%2C%22handleChange%22%2C%22%24%24ACTION_0%22%2C%22handleLogin%22%5D%5D%5D&__client_imported__=true!",
+        "app/profile/page": "(rsc)/./node_modules/next/dist/build/webpack/loaders/next-flight-action-entry-loader.js?actions=%5B%5B%22C%3A%5C%5CUsers%5C%5Cuser%5C%5CDesktop%5C%5CNext-Auth-Basics%5C%5Csrc%5C%5Capp%5C%5Clib%5C%5Cactions.ts%22%2C%5B%22%24%24ACTION_1%22%2C%22%24%24ACTION_3%22%2C%22handleLogout%22%2C%22handleSignup%22%2C%22%24%24ACTION_2%22%2C%22handleChange%22%2C%22%24%24ACTION_0%22%2C%22handleLogin%22%5D%5D%5D&__client_imported__=!",
+        "app/settings/page": "(action-browser)/./node_modules/next/dist/build/webpack/loaders/next-flight-action-entry-loader.js?actions=%5B%5B%22C%3A%5C%5CUsers%5C%5Cuser%5C%5CDesktop%5C%5CNext-Auth-Basics%5C%5Csrc%5C%5Capp%5C%5Clib%5C%5Cactions.ts%22%2C%5B%22%24%24ACTION_1%22%2C%22%24%24ACTION_3%22%2C%22handleLogout%22%2C%22handleSignup%22%2C%22%24%24ACTION_2%22%2C%22handleChange%22%2C%22%24%24ACTION_0%22%2C%22handleLogin%22%5D%5D%5D&__client_imported__=true!"
+      },
+      "layer": {
+        "app/page": "action-browser",
+        "app/login/page": "action-browser",
+        "app/profile/page": "rsc",
+        "app/settings/page": "action-browser"
+      }
+    },
+    "e62a4cad16fe0c47d0ae9886b59534dffb31169d": {
+      "workers": {
+        "app/page": "(action-browser)/./node_modules/next/dist/build/webpack/loaders/next-flight-action-entry-loader.js?actions=%5B%5B%22C%3A%5C%5CUsers%5C%5Cuser%5C%5CDesktop%5C%5CNext-Auth-Basics%5C%5Csrc%5C%5Capp%5C%5Clib%5C%5Cactions.ts%22%2C%5B%22%24%24ACTION_1%22%2C%22%24%24ACTION_3%22%2C%22handleLogout%22%2C%22handleSignup%22%2C%22%24%24ACTION_2%22%2C%22handleChange%22%2C%22%24%24ACTION_0%22%2C%22handleLogin%22%5D%5D%5D&__client_imported__=true!",
+        "app/login/page": "(action-browser)/./node_modules/next/dist/build/webpack/loaders/next-flight-action-entry-loader.js?actions=%5B%5B%22C%3A%5C%5CUsers%5C%5Cuser%5C%5CDesktop%5C%5CNext-Auth-Basics%5C%5Csrc%5C%5Capp%5C%5Clib%5C%5Cactions.ts%22%2C%5B%22%24%24ACTION_1%22%2C%22%24%24ACTION_3%22%2C%22handleLogout%22%2C%22handleSignup%22%2C%22%24%24ACTION_2%22%2C%22handleChange%22%2C%22%24%24ACTION_0%22%2C%22handleLogin%22%5D%5D%5D&__client_imported__=true!",
+        "app/profile/page": "(rsc)/./node_modules/next/dist/build/webpack/loaders/next-flight-action-entry-loader.js?actions=%5B%5B%22C%3A%5C%5CUsers%5C%5Cuser%5C%5CDesktop%5C%5CNext-Auth-Basics%5C%5Csrc%5C%5Capp%5C%5Clib%5C%5Cactions.ts%22%2C%5B%22%24%24ACTION_1%22%2C%22%24%24ACTION_3%22%2C%22handleLogout%22%2C%22handleSignup%22%2C%22%24%24ACTION_2%22%2C%22handleChange%22%2C%22%24%24ACTION_0%22%2C%22handleLogin%22%5D%5D%5D&__client_imported__=!",
+        "app/settings/page": "(action-browser)/./node_modules/next/dist/build/webpack/loaders/next-flight-action-entry-loader.js?actions=%5B%5B%22C%3A%5C%5CUsers%5C%5Cuser%5C%5CDesktop%5C%5CNext-Auth-Basics%5C%5Csrc%5C%5Capp%5C%5Clib%5C%5Cactions.ts%22%2C%5B%22%24%24ACTION_1%22%2C%22%24%24ACTION_3%22%2C%22handleLogout%22%2C%22handleSignup%22%2C%22%24%24ACTION_2%22%2C%22handleChange%22%2C%22%24%24ACTION_0%22%2C%22handleLogin%22%5D%5D%5D&__client_imported__=true!"
+      },
+      "layer": {
+        "app/page": "action-browser",
+        "app/login/page": "action-browser",
+        "app/profile/page": "rsc",
+        "app/settings/page": "action-browser"
+      }
+    },
+    "ed49a56824aac954209454e6729a9f56ef04bdad": {
+      "workers": {
+        "app/page": "(action-browser)/./node_modules/next/dist/build/webpack/loaders/next-flight-action-entry-loader.js?actions=%5B%5B%22C%3A%5C%5CUsers%5C%5Cuser%5C%5CDesktop%5C%5CNext-Auth-Basics%5C%5Csrc%5C%5Capp%5C%5Clib%5C%5Cactions.ts%22%2C%5B%22%24%24ACTION_1%22%2C%22%24%24ACTION_3%22%2C%22handleLogout%22%2C%22handleSignup%22%2C%22%24%24ACTION_2%22%2C%22handleChange%22%2C%22%24%24ACTION_0%22%2C%22handleLogin%22%5D%5D%5D&__client_imported__=true!",
+        "app/login/page": "(action-browser)/./node_modules/next/dist/build/webpack/loaders/next-flight-action-entry-loader.js?actions=%5B%5B%22C%3A%5C%5CUsers%5C%5Cuser%5C%5CDesktop%5C%5CNext-Auth-Basics%5C%5Csrc%5C%5Capp%5C%5Clib%5C%5Cactions.ts%22%2C%5B%22%24%24ACTION_1%22%2C%22%24%24ACTION_3%22%2C%22handleLogout%22%2C%22handleSignup%22%2C%22%24%24ACTION_2%22%2C%22handleChange%22%2C%22%24%24ACTION_0%22%2C%22handleLogin%22%5D%5D%5D&__client_imported__=true!",
+        "app/profile/page": "(rsc)/./node_modules/next/dist/build/webpack/loaders/next-flight-action-entry-loader.js?actions=%5B%5B%22C%3A%5C%5CUsers%5C%5Cuser%5C%5CDesktop%5C%5CNext-Auth-Basics%5C%5Csrc%5C%5Capp%5C%5Clib%5C%5Cactions.ts%22%2C%5B%22%24%24ACTION_1%22%2C%22%24%24ACTION_3%22%2C%22handleLogout%22%2C%22handleSignup%22%2C%22%24%24ACTION_2%22%2C%22handleChange%22%2C%22%24%24ACTION_0%22%2C%22handleLogin%22%5D%5D%5D&__client_imported__=!",
+        "app/settings/page": "(action-browser)/./node_modules/next/dist/build/webpack/loaders/next-flight-action-entry-loader.js?actions=%5B%5B%22C%3A%5C%5CUsers%5C%5Cuser%5C%5CDesktop%5C%5CNext-Auth-Basics%5C%5Csrc%5C%5Capp%5C%5Clib%5C%5Cactions.ts%22%2C%5B%22%24%24ACTION_1%22%2C%22%24%24ACTION_3%22%2C%22handleLogout%22%2C%22handleSignup%22%2C%22%24%24ACTION_2%22%2C%22handleChange%22%2C%22%24%24ACTION_0%22%2C%22handleLogin%22%5D%5D%5D&__client_imported__=true!"
+      },
+      "layer": {
+        "app/page": "action-browser",
+        "app/login/page": "action-browser",
+        "app/profile/page": "rsc",
+        "app/settings/page": "action-browser"
+      }
+    }
+  },
+  "edge": {},
+  "encryptionKey": "rYGrdnexcerZ0sEYuwl01FlNA+HbCWu/6YUW8c2BZI0="
+}
